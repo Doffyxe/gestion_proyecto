@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\mario\eclipse-workspace\Freidytareas\.metadata\.plugins\org.eclipse.jdt.core
+1461059770.index
+4133931659.index
+761451734.index
+1865797976.index
